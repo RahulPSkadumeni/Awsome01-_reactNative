@@ -1,8 +1,8 @@
-### Naative Components
+### Native Components
 
 ## 1 styleSheet
 
-responsibele for styling
+responsible for styling
 
 ## useColorScheme
 

@@ -1,8 +1,7 @@
-// eslint-disable-next-line prettier/prettier
 import React from 'react';
 import {View, Text, SafeAreaView} from 'react-native';
 
-function AppPro(): JSX.Element {
+const AppPro = (): React.ReactElement => {
   return (
     <>
       <SafeAreaView>
@@ -12,6 +11,6 @@ function AppPro(): JSX.Element {
       </SafeAreaView>
     </>
   );
-}
+};
 
 export default AppPro;
